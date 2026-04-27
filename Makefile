@@ -15,3 +15,5 @@ src/client_main.cpp \
 src/client/clerk.cpp \
 src/rpc/tcp_client.cpp \
 -o client
+
+mkdir db && mkdir state
